@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello my name is Rowan Mullin and I'm currently a student at MITT
 
 <!--
-**Rowan1234/rowan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
