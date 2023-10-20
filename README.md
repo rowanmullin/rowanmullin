@@ -13,3 +13,5 @@ Hobbies:
 - airsoft
 - skiing
 - cycling
+- reading
+  
