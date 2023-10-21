@@ -1,6 +1,6 @@
 ### Hello my name is Rowan Mullin 
 
-I'm currently going for a Major in Computer Science at the University of Manitoba.
+I'm currently trying to learn about AI and more specifically neural nets.
 
 Some languages I like to program in include:
 - JavaScript
