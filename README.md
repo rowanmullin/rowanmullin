@@ -14,4 +14,4 @@ Hobbies:
 - skiing
 - cycling
 - reading
-  
+- anime  
